@@ -66,6 +66,13 @@ More on Kobakant:
 [Open Access](files/PolySense_On-Body.pdf)
 <br> [![PolySense On-Body](files/PolySense_On-Body.jpg)](files/PolySense_On-Body.pdf)
 
+  - _Stymphalian Birds - Exploring the Aesthetics of A Hybrid Textile._
+<br> [DIS 2020](https://dis.acm.org/2020):
+[DOI](https://doi.org/10.1145/3393914.3395840) ||
+[Open Access](files/Stymphalian-Birds.pdf) ||
+[Video](https://youtu.be/CTibZL-BmbQ) ||
+[more](https://audreybriot.fr/stymphalian-birds/)
+<br> [![PolySense On-Body](files/Stymphalian-Birds.jpg)](files/Stymphalian-Birds.pdf)
 
 ## Contacts
 
