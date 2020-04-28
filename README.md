@@ -49,25 +49,27 @@ More on Kobakant:
 ### Academic Publications
 
   - _PolySense: Augmenting Materials with Electrical Functionality (using In-Situ Polymerization)._
-<br> [CHI 2020](https://chi2020.acm.org/):
-[DOI](https://doi.org/10.1145/3313831.3376841) -
-[Open Access](files/PolySense.pdf)
+<br> [CHI 2020](https://chi2020.acm.org/) ||
+[DOI](https://doi.org/10.1145/3313831.3376841) ||
+[Open Access](files/PolySense.pdf) ||
+[Video](https://www.youtube.com/watch?v=nmtneKl1_Ic)
 <br> [![PolySense Paper](files/PolySense.jpg)](files/PolySense.pdf)
 
   - _PolySense: How to Make Electrically Functional Textiles._
-<br> [CHI 2020 (Interactivity Track)](https://chi2020.acm.org/):
-[DOI](https://doi.org/10.1145/3334480.3383148) -
+<br> [CHI 2020 (Interactivity Track)](https://chi2020.acm.org/) ||
+[DOI](https://doi.org/10.1145/3334480.3383148) ||
 [Open Access](files/PolySense_demo.pdf)
 <br> [![PolySense Demo Paper](files/PolySense_demo.jpg)](files/PolySense_demo.pdf)
 
   - _Sketching On-Body Interactions using Piezo-Resistive Kinesiology Tape_
-<br> [AH 2020](https://augmented-humans.org/):
-[DOI](https://doi.org/10.1145/3384657.3384774) -
-[Open Access](files/PolySense_On-Body.pdf)
+<br> [AH 2020](https://augmented-humans.org/) ||
+[DOI](https://doi.org/10.1145/3384657.3384774) ||
+[Open Access](files/PolySense_On-Body.pdf) ||
+[Video](https://www.youtube.com/watch?v=LZDMlTWuRVw)
 <br> [![PolySense On-Body](files/PolySense_On-Body.jpg)](files/PolySense_On-Body.pdf)
 
   - _Stymphalian Birds - Exploring the Aesthetics of A Hybrid Textile._
-<br> [DIS 2020](https://dis.acm.org/2020):
+<br> [DIS 2020](https://dis.acm.org/2020) ||
 [DOI](https://doi.org/10.1145/3393914.3395840) ||
 [Open Access](files/Stymphalian-Birds.pdf) ||
 [Video](https://youtu.be/CTibZL-BmbQ) ||
