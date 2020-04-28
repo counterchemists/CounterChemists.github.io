@@ -80,3 +80,8 @@ More on Kobakant:
 
   - Mailing list: [https://groups.google.com/forum/#!forum/CounterChemists](https://groups.google.com/forum/#!forum/CounterChemists)
 
+
+## Credits
+
+The eTextile project was born in [DataPaulette](http://datapaulette.org) and the materials science research was conducted by Ana C. Baptista at [CENIMAT](https://www.cenimat.fct.unl.pt/). The HCI work was initiated by Paul Strohmeier at [Saarland HCI](https://hci.cs.uni-saarland.de/) and developed over a series of research visits by Hannah Perner-Wilson ([KobaKant](https://www.kobakant.at/DIY/)) and Cedric Honnet ([MIT](https://www.media.mit.edu/projects/material-functionalization/overview/)).
+
