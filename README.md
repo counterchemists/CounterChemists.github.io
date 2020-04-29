@@ -76,6 +76,24 @@ More on Kobakant:
 [more](https://audreybriot.fr/stymphalian-birds/)
 <br> [![PolySense On-Body](files/Stymphalian-Birds.jpg)](files/Stymphalian-Birds.pdf)
 
+## Why?
+
+In this project we explore the process of polymerization to add electrical functionalities to everyday materials such as fabrics, or feathers, to transform them as sensors for example.
+
+Creating one’s own sensitive textiles provides a plethora of opportunities:
+For example, it means the freedom from constraints of store bought materials. Polymerization broadens the range of interactive objects which can be created. One might augment an existing and loved item, or create unique new materials and sensors by polymerizing items with unique properties such as tape or zippers.
+Existing piezoresistive materials (pressure sensitive) also act as a black box in designs, it means that entrepreneurs, tailors, researchers, and hackers are dependent on a specific manufacturer. If this manufacturer changes their production process, this currently might make entire designs obsolete which can make it tricky to reproduce work or create products.
+
+PolySense, our CHI publication, highlights how -- by framing polymerization as a dyeing process -- polymerization is a versatile and easy to deploy tool for creating fabric with custom electrical properties. We also show how to use etching on existing functional fabric to customize it. The resulting custom fabrics might be used as sensors or conductors and even whole circuits including sensing elements can be implemented in fabric only.
+
+Other publications highlight specific pieces and technologies which are implemented using the process described in PolySense. For example, we demonstrate rapid prototyping of on-skin interaction, and showcase a hybrid art-piece which features polymerized feathers.
+
+More:
+  - [DataPaulette](http://datapaulette.org/work/topographie-digitale/)
+  - [Saarland HCI](https://hci.cs.uni-saarland.de/research/polysense/)
+  - [MIT Media Lab](https://www.media.mit.edu/projects/material-functionalization/overview/)
+
+
 ## Contacts
 
   - Core team: [CounterChemists+owners@googlegroups.com](mailto:CounterChemists+owners@googlegroups.com)
