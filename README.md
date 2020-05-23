@@ -76,6 +76,16 @@ More on Kobakant:
 [more](https://audreybriot.fr/stymphalian-birds/)
 <br> [![PolySense On-Body](files/Stymphalian-Birds.jpg)](files/Stymphalian-Birds.pdf)
 
+
+### Other Publications
+
+  - HACK A DAY!
+[https://hackaday.com/2020/05/22/dyeing-fabric-to-create-sensors/](https://hackaday.com/2020/05/22/dyeing-fabric-to-create-sensors/)
+
+  - MAKER FAIRE!
+[https://makerfaire.com/maker/entry/72292](https://makerfaire.com/maker/entry/72292)
+
+
 ## Why?
 
 In this project we explore the process of polymerization to add electrical functionalities to everyday materials such as fabrics, or feathers, to transform them as sensors for example.
