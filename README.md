@@ -79,11 +79,19 @@ More on Kobakant:
 
 ### Other Publications
 
-  - HACK A DAY!
-[https://hackaday.com/2020/05/22/dyeing-fabric-to-create-sensors/](https://hackaday.com/2020/05/22/dyeing-fabric-to-create-sensors/)
 
-  - MAKER FAIRE!
-[https://makerfaire.com/maker/entry/72292](https://makerfaire.com/maker/entry/72292)
+  - ⚡ ARS ELECTRONICA! \\
+[starts-prize.aec.at/en/topographie-digitale](https://starts-prize.aec.at/en/topographie-digitale/)
+
+  - 🤖 MAKER FAIRE! \\
+[makerfaire.com/maker/entry/72292](https://makerfaire.com/maker/entry/72292)
+
+  - 💀 HACK A DAY! \\
+[hackaday.com/2020/05/22/dyeing-fabric-to-create-sensors](https://hackaday.com/2020/05/22/dyeing-fabric-to-create-sensors/)
+
+  - 💀 HACKSTER NEWS! \\
+[hackster.io/news/polysense-535b5cb9ac0f](https://www.hackster.io/news/polysense-makes-existing-textiles-conductive-to-add-electronic-functionalityv-535b5cb9ac0f)
+
 
 
 ## Why?
