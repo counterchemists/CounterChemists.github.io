@@ -48,6 +48,8 @@ More on Kobakant:
 
 ### Academic Publications
 
+#### From the Counter Chemists:
+
   - _PolySense: Augmenting Materials with Electrical Functionality (using In-Situ Polymerization)._
 <br> [CHI 2020](https://chi2020.acm.org/) ||
 [DOI](https://doi.org/10.1145/3313831.3376841) ||
@@ -75,6 +77,42 @@ More on Kobakant:
 [Video](https://youtu.be/CTibZL-BmbQ) ||
 [more](https://audreybriot.fr/stymphalian-birds/)
 <br> [![PolySense On-Body](files/Stymphalian-Birds.jpg)](files/Stymphalian-Birds.pdf)
+
+  - _Topographie Digitale._
+<br> [TEI 2021](https://tei.acm.org/2021) ||
+[DOI](https://doi.org/10.1145/3430524.3444641) ||
+[Open Access](files/TopographieDigitale.pdf) ||
+[Video](https://vimeo.com/423148212) ||
+[Project Page](https://datapaulette.org/work/topographie-digitale/) ||
+[ARS Electronica](https://ars.electronica.art/keplersgardens/en/topographie-digitale/)
+<br> [![Topographie Digitale](files/TopographieDigitale.jpg)](files/TopographieDigitale.pdf)
+
+  - _Polymerized Tape._
+<br> [TEI 2021](https://tei.acm.org/2021) ||
+[DOI](https://doi.org/10.1145/3430524.3444706) ||
+[Open Access](files/PolymerizedTape.pdf) ||
+[Video](https://vimeo.com/512269189) ||
+[Project Page](https://tei.acm.org/2021/swatchbook/polymerized-tape/)
+<br> [![Topographie Digitale](files/PolymerizedTape.jpg)](files/PolymerizedTape.pdf)
+
+
+#### From the Extended Counter Chemists:
+
+  - _An Interactive Garment for Orchestra Conducting: IoT-enabled Textile & Machine Learning to Direct Musical Performance._
+<br> [TEI 2021](https://tei.acm.org/2021) ||
+[DOI](https://doi.org/10.1145/3430524.3442451)
+
+  - _Fiber-sense: the exploration of the craft and material of fiberglass as a medium for tangible user interfaces._
+<br> [TEI 2021](https://tei.acm.org/2021) ||
+[DOI](https://doi.org/10.1145/3430524.3444703)
+
+  - _Folded Electronic Textiles: Weaving, Knitting, Pleating and Coating Three-Dimensional Sensor Structures._
+<br> [MIT Press 2022](https://direct.mit.edu/leon/issue/55/3) ||
+[DOI](https://doi.org/10.1162/leon_a_02183)
+
+  - _Feather Hair: Interacting with Sensorized Hair in Public Settings._
+<br> [DIS 2022](https://dis.acm.org/2022) ||
+[DOI](https://doi.org/10.1145/3532106.3533527)
 
 
 ### Other Publications
